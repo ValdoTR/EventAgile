@@ -30,7 +30,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\n"
+                 "value":"\/@\/d2x\/mc2o\/bar"
                 }],
          "type":"tilelayer",
          "visible":true,
