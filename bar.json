@@ -99,7 +99,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/d2x\/mc2o\/workshop"
+                 "value":"\/@\/agile-paris\/agileparisbynight\/workshop"
                 }],
          "type":"tilelayer",
          "visible":true,
