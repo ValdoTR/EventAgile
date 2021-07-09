@@ -418,7 +418,7 @@
         {
          "columns":5,
          "firstgid":1,
-         "image":"tileSet\/ALL.png",
+         "image":"src\/assets\/ALL.png",
          "imageheight":128,
          "imagewidth":160,
          "margin":0,
@@ -441,7 +441,7 @@
         {
          "columns":12,
          "firstgid":21,
-         "image":"tileSet\/sol_interieur.png",
+         "image":"src\/assets\/sol_interieur.png",
          "imageheight":288,
          "imagewidth":384,
          "margin":0,
@@ -454,7 +454,7 @@
         {
          "columns":10,
          "firstgid":129,
-         "image":"tileSet\/tileset5_export.png",
+         "image":"src\/assets\/tileset5_export.png",
          "imageheight":320,
          "imagewidth":320,
          "margin":0,
@@ -467,7 +467,7 @@
         {
          "columns":11,
          "firstgid":229,
-         "image":"tileSet\/tileset1.png",
+         "image":"src\/assets\/tileset1.png",
          "imageheight":352,
          "imagewidth":352,
          "margin":0,
@@ -480,7 +480,7 @@
         {
          "columns":16,
          "firstgid":350,
-         "image":"tileSet\/modern_interiors-part1.png",
+         "image":"src\/assets\/modern_interiors-part1.png",
          "imageheight":864,
          "imagewidth":512,
          "margin":0,
@@ -493,7 +493,7 @@
         {
          "columns":8,
          "firstgid":782,
-         "image":"tileSet\/basement.png",
+         "image":"src\/assets\/basement.png",
          "imageheight":1696,
          "imagewidth":256,
          "margin":0,
@@ -506,7 +506,7 @@
         {
          "columns":16,
          "firstgid":1206,
-         "image":"tileSet\/modern_interiors-part2.png",
+         "image":"src\/assets\/modern_interiors-part2.png",
          "imageheight":864,
          "imagewidth":512,
          "margin":0,
